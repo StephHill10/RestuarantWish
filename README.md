@@ -1,2 +1,2 @@
-# RestuarantWish
+# RestaurantWish
 Master's Degree Project
